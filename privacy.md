@@ -4,8 +4,8 @@ title: Privacy Policy
 
 # Privacy Policy — Powerlifter
 
-**Effective date:** 2026-09-27
-**App:** Powerlifter for iPhone, with its Apple Watch companion
+**Effective date:** 2026-09-27  
+**App:** Powerlifter for iPhone, with its Apple Watch companion  
 **Contact:** powerlifterapp@icloud.com
 
 
