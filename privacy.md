@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy — Powerlifter
 
-**Effective date:** 2026-09-27  
+**Effective date:** 2026-10-01  
 **App:** Powerlifter for iPhone, with its Apple Watch companion  
 **Contact:** powerlifterapp@icloud.com
 
@@ -29,13 +29,13 @@ This covers workouts, sets, weights, exercises and setups, timers, notes, max-ef
 
 ### Photos (plan from photo)
 
-When you use plan from photo, the app reads the picture you take or pick **on your iPhone**, using Apple's on-device text recognition. The picture is not uploaded anywhere. If you save the sheet with a workout, it is stored with that workout, which means in your private iCloud as well when sync is on.
+Plan from photo reads a picture you take with the camera, pick from your photo library, or open from a file. Text recognition stays on your iPhone. If you keep the sheet, one compressed photo is stored on that workout. When iCloud sync is on, that photo is in your private iCloud with the workout. The original camera photo is not kept. We never receive the picture.
 
 ### Apple Health
 
 With your permission, Powerlifter:
 
-- reads **body mass**, for bodyweight lifts such as pull-ups;
+- reads **body mass**, to suggest a body weight. The number is saved only when you confirm it, on first launch or when you choose to update it. That saved weight is stored with your workouts, including in your private iCloud. It does not stay linked to Apple Health;
 - reads **biological sex**, for Wilks and DOTS scores;
 - uses **workout** access so the iPhone can open the Watch app;
 - with **Record in Fitness** turned on, saves a Strength workout and **heart rate** from your Apple Watch to Health.
@@ -44,11 +44,11 @@ Health data is never used for advertising and is never sent to us. You can chang
 
 ### Calendar (treatment calendars)
 
-If you turn on treatment calendars, Powerlifter reads the **date and title** of events in the calendars you pick, so it can mark those days. It never adds, changes or deletes events. You can turn access off in Settings → Privacy & Security → Calendars.
+If you turn on treatment calendars, Powerlifter reads the **date and title** of events in the calendars you pick, so it can mark those days. The title becomes that day's note, so it is kept with your training data, including in your private iCloud when sync is on. It never adds, changes or deletes events. You can turn access off in Settings → Privacy & Security → Calendars.
 
 ### Bluetooth (velocity meters)
 
-If you connect a velocity meter, Powerlifter talks to it over Bluetooth during an open workout and stores the rep speeds with that lift. Nothing about nearby devices is kept or sent anywhere.
+If you connect a velocity meter, Powerlifter uses Bluetooth only to read rep speeds during an open workout. Those speeds are stored on the set, so they stay with the workout, including in your private iCloud when sync is on. The app does not keep a list of nearby devices, and it does not send meter data to us.
 
 ### Purchases (Powerlifter Plus)
 
