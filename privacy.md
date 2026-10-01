@@ -38,7 +38,7 @@ With your permission, Powerlifter:
 - reads **body mass**, to suggest a body weight. The number is saved only when you confirm it, on first launch or when you choose to update it. That saved weight is stored with your workouts, including in your private iCloud. It does not stay linked to Apple Health;
 - reads **biological sex**, for Wilks and DOTS scores;
 - uses **workout** access so the iPhone can open the Watch app;
-- with **Record in Fitness** turned on, saves a Strength workout and **heart rate** from your Apple Watch to Health.
+- with **Record in Fitness** turned on, reads your **heart rate** on Apple Watch to show it during the workout, and saves a Strength workout with that heart rate to Health. The heart rate is shown only on the Watch. It is not sent to your iPhone or kept in your training data.
 
 Health data is never used for advertising and is never sent to us. You can change access in the Health app → Sharing → Apps → Powerlifter.
 
