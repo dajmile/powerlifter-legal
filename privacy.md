@@ -4,10 +4,9 @@ title: Privacy Policy
 
 # Privacy Policy — Powerlifter
 
-**Effective date:** 2026-10-17  
+**Effective date:** 2026-11-02  
 **App:** Powerlifter for iPhone, with its Apple Watch companion  
 **Contact:** powerlifterapp@icloud.com
-
 
 ---
 
@@ -21,7 +20,7 @@ Powerlifter is a training log. What you enter stays on your iPhone and Apple Wat
 
 ### Training data
 
-This covers workouts, sets, weights, exercises and setups, timers, notes, max-effort plans, gym inventory, treatment / vacation / sick days, year notes, and your settings.
+This covers workouts, sets, weights, exercises and setups, timers, notes, max-effort plans, gym inventory, treatment / vacation / sick days, injuries, year notes, and your settings.
 
 - **On your devices.** Stored on your iPhone. The Apple Watch app gets what it needs to show the current workout from your iPhone.
 - **In your iCloud.** When the iPhone is signed into iCloud, Apple syncs this data to your **private** CloudKit database (`iCloud.com.mile.Powerlifter`). Only your Apple Account can read it. We can't.
@@ -35,8 +34,9 @@ Plan from photo reads a picture you take with the camera, pick from your photo l
 
 With your permission, Powerlifter:
 
-- reads **body mass**, to suggest a body weight. The number is saved only when you confirm it, on first launch or when you choose to update it. That saved weight is stored with your workouts, including in your private iCloud. It does not stay linked to Apple Health;
+- reads **body mass**, to suggest a body weight, to show the weight you had on a day you select on Home, and to chart your weight history on Progress. A suggested number is saved only when you choose to save it: on first launch, when you update your weight, or when you pick it for a workout. A weight you choose to save on a workout, including one suggested from Health, is stored with that workout, including in your private iCloud when sync is on. It does not stay linked to Apple Health. The weights shown for past days, and the chart, are read from Health when needed and are not saved by Powerlifter;
 - reads **biological sex**, for Wilks and DOTS scores;
+- writes a **body weight you type** to Apple Health, as a body-mass sample: from the Weigh-in sheet (dated that day, or noon on a past date), Body weight & Health, or a meet weigh-in. It never writes back a number that came from Health. Saving again on the same day replaces the sample Powerlifter wrote, and **Remove this weigh-in** deletes it. Powerlifter never changes or deletes samples from any other source, and resetting the app leaves Health as it is. A weigh-in typed on a day goes to Health only: Powerlifter keeps no list of them, in iCloud or anywhere else, though today's number also becomes your saved body weight, described above. A weight is also saved with a workout when you choose to: a meet weigh-in, a Weigh-in typed on a meet day that has no weight yet, or a weight you add to a lift from Progress (which is never written to Health). It is stored with that workout, including in your private iCloud when sync is on;
 - uses **workout** access so the iPhone can open the Watch app;
 - with **Record in Fitness** turned on, reads your **heart rate** on Apple Watch to show it during the workout, and saves a Strength workout with that heart rate and active energy to Health. When you finish, an effort rating you choose (Easy to All Out) is saved on that workout. The heart rate is shown only on the Watch. It is not sent to your iPhone or kept in your training data. The effort rating is stored in Health, not in your training log.
 
